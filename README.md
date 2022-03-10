@@ -1,2 +1,3 @@
 # Bank
 A model of an actual bank.
+THIS WILL BE UPDATED SOON TO EXPLAIN HOW THIS PROJECCT WORK!
