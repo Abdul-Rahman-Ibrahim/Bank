@@ -11,8 +11,8 @@
 # Store all available bank acoounts in a folder/file. DONE!                                #
 # A function that allows customers to check their balance. DONE!                           #
 # A function that allows customers to access their financial transactions. DONE!           #
-# Create a seperate python file to interact with customers.                                #
-# Allow transactions with different banks.                                                 #
+# Create a seperate python file to interact with customers. DONE!                          #
+# Allow transactions with different banks. DONE!                                           #
 # Consider exchange rates with different currencies during transfer of money to others.    #
 # Modify 'transact' to accept 'checkBalance' and 'getUserTransactions'                     #
 ############################################################################################
@@ -476,13 +476,6 @@ class ABCBank():
         
 
 b = ABCBank()
-#b.addUser('Rahman', 'Kofi', otherName='Joe',currency='TL')
-#print(b.users)
-##b.addUser('Joe', 'Yaw',phoneNumber=546893020,currency='GHC')
-##b.addUser('Tui', 'Kofi', otherName='Falala', phoneNumber=552343213, currency='GHC')
-#print(b.users)
-
-# def transact(self, accountNumber, amount, transactionType, toAccountNumber='N/A', reference='N/A', reason='N/A'):
 
 ### AFTER THIS PROGRAM, FOCUS ON APPLYING YOUR PYTHON SKILLS TO AREAS IN ENGINEERING.
 ### MAY GOD BE WITH YOU.
