@@ -1,5 +1,5 @@
 Date,Customer number,Account number,First name,Last name,Other name,Account type,Currency,Phone Number,Path
-2022-2-19,1,1866633192622,Yusuf,Mohammed,None,Current,TL,None,Mohammed1.csv
-2022-2-19,2,1813246913956,Rahman,Kofi,Joe,Current,TL,None,Kofi2.csv
-2022-2-19,3,2192935528615,Rahman,Kofi,Joe,Current,TL,None,Kofi3.csv
+2022-2-19,1,1866633192622,Yusuf,Mohammed,None,Current,GHC,None,Mohammed1.csv
+2022-2-19,2,1813246913956,Rahman,Kofi,Joe,Current,GHC,None,Kofi2.csv
+2022-2-19,3,2192935528615,Rahman,Kofi,Joe,Current,USD,None,Kofi3.csv
 2022-2-27,4,2736128154472,Mohammed,Said,None,USD,USD,None,Said4.csv
