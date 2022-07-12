@@ -1,5 +1,21 @@
 Date,Customer number,Account number,First name,Last name,Other name,Account type,Currency,Phone Number,Path
-2022-2-19,1,1866633192622,Yusuf,Mohammed,None,Current,GHC,None,Mohammed1.csv
-2022-2-19,2,1813246913956,Rahman,Kofi,Joe,Current,GHC,None,Kofi2.csv
-2022-2-19,3,2192935528615,Rahman,Kofi,Joe,Current,USD,None,Kofi3.csv
-2022-2-27,4,2736128154472,Mohammed,Said,None,USD,USD,None,Said4.csv
+2022-7-7,1,2138489494535,Chigoziri,Bartus,None,Fixed-Deposit,YEN,None,Bartus1.csv
+2022-7-7,2,3618268662992,Olamipo,Vekaria,None,Savings,EUR,None,Vekaria2.csv
+2022-7-7,3,9879317555312,Gry,Henser,None,Savings,USD,None,Henser3.csv
+2022-7-7,4,7199581885431,Moyasr,Mostin,None,Current,USD,None,Mostin4.csv
+2022-7-7,5,4217724711124,Shaun-Paul,Cockman,None,Current,EUR,None,Cockman5.csv
+2022-7-7,6,9314214997842,Cymon,Gubala,None,Fixed-Deposit,TL,None,Gubala6.csv
+2022-7-7,7,4475621526552,Thias,Roye,None,Current,CFA,None,Roye7.csv
+2022-7-7,8,7168792818934,Cahoair,Glazier,None,Current,YEN,None,Glazier8.csv
+2022-7-7,9,2694377237447,Gaurev,Fickling,None,Current,CFA,None,Fickling9.csv
+2022-7-7,10,3187497427517,Lindin,Dockerty,None,Savings,GHC,None,Dockerty10.csv
+2022-7-7,11,9756519143535,Aimer,Joshua,None,Fixed-Deposit,TL,None,Joshua11.csv
+2022-7-7,12,7678727857374,Wofa,Aby,Yout,Current,USD,12345,Aby12.csv
+2022-7-7,13,3826379545131,Busia,Jeje,None,Savings,USD,0244873838,Jeje13.csv
+2022-7-11,14,1539143573631,Hiytu,Van,None,Current,USD,None,Van14.csv
+2022-7-11,15,7896916879491,Juniot,Agoago,None,Savings,EUR,0243444322,Agoago15.csv
+2022-7-11,16,6746531655282,Toguyi,Ghaha,None,Current,USD,None,Ghaha16.csv
+2022-7-11,17,4397153124772,Ghana,Yoib,None,Current,GHC,None,Yoib17.csv
+2022-7-11,18,6425856657448,Kwame,Emma,None,Current,GHC,None,Emma18.csv
+2022-7-11,19,4544212324649,Haiat,Banhgt,None,Current,TLR,None,Banhgt19.csv
+2022-7-11,20,3547874373951,Roland,Aheu,None,Current,GHC,None,Aheu20.csv
